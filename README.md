@@ -14,4 +14,4 @@ CorpusSearch.py allows for both advanced searches of the corpus (advanced_search
 
 MetadataBits.py contains a dictionary of the metadata for the entire Classical N-grams corpus (classical_ngrams_corpus_dict), as well as a program that allows for selecting titles out of the corpus based on the texts' characteristics.
 
-For any questions, suggestions, general comments, or for access to our corpus, please reach out to us via digitalhumanities@mit.edu.
+For any questions, suggestions, general comments, or for access to our corpus, please reach out to us via classicalngrams@mit.edu.
